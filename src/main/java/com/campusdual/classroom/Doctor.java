@@ -10,10 +10,12 @@ public class Doctor extends Person {
 	}
 
 	public String getSpecialization() {
+
 		return this.specialization;
 	}
 
 	public void setSpecialization(String specialization) {
+
 		this.specialization = specialization;
 	}
 
